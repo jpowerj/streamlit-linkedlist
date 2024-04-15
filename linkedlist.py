@@ -1,6 +1,4 @@
 import streamlit as st
-from IPython.display import display
-import graphviz as gv # for visualizing a tree using Digraph
 from graphviz import Digraph, nohtml
 
 st.header("LinkedList Visualizer")
